@@ -1,3 +1,3 @@
 # Keyword Extractor Component
 
-Simple MVP Keyword Extractor
+A simple example of a keyword extractor component.
