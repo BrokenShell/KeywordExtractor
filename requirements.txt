@@ -1,0 +1,4 @@
+altair
+jupyter
+pandas
+yake
